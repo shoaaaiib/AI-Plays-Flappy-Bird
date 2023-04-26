@@ -287,11 +287,6 @@ if __name__ == '__main__':
     run(config_path)
 
 
-    
-    
-#hello from sagemaker
-
-
 
 
 
